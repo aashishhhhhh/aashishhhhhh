@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Pandey
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on any type of Android Projects
+- 👀 I’m interested in php Laravel Framework  
+- 🌱 I’m currently learning Laravel Framework
+- 💞️ I’m looking to collaborate on any type of Laravel projects
 - 📫 How to reach me : Ashish.Pandey2073@gmail.com
 
 <!---
