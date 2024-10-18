@@ -38,7 +38,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![E-commerce Expert](https://img.shields.io/badge/E--commerce%20Expert-FF5733?style=for-the-badge&logo=shopify&logoColor=white)]
+![E-commerce Expert](https://img.shields.io/badge/E--commerce%20Expert-FF5733?style=for-the-badge&logo=shopify&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Package Developer](https://img.shields.io/badge/Package%20Developer-007ACC?style=for-the-badge&logo=packagist&logoColor=white)
